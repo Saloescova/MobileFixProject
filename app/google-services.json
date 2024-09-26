@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285392079212",
+    "project_id": "fix1-app",
+    "storage_bucket": "fix1-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285392079212:android:41a1a558fda7f9e1524b49",
+        "android_client_info": {
+          "package_name": "co.com.myapp.cesde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5iR293pB9I8JvDXAmHl_I0pB7k7JxUzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
